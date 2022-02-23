@@ -1,0 +1,4 @@
+ifconfig =  Gather IP configuration information.
+
+win => ipconfig
+lx  => ifconfig
