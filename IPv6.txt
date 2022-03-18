@@ -10,6 +10,16 @@ numbers, so, 2 ^ 4 = 16 bits).
 16 bits * 8 (groups) = 128 bits.
 
 
+example: 
+0123 : 4567 :89ab :edef :0123 :4567 :89ab: edef
+
+if we take one group like: 
+
+0123 (hexa)
+
+0000 0001 0010 0011 (bits)
+
+
 
 
 
