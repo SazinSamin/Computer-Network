@@ -1,0 +1,12 @@
+Mac Address is the physical address of a device.
+It is 48 bits long. The bits are divide with 6 group. Each group has 2 hexadecimal numbers, each hexadecimal number consist of
+4 bits. because 2 ^ 4 = 16(hexadecimal).
+
+So, 
+=>  4 * 2 = 8
+=>  8 * 6 = 48
+
+
+
+12-34-56-78-9A-BC
+01001000 00101100 01101010 00011110 01011001 00111101
