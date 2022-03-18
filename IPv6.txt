@@ -1,0 +1,18 @@
+IPv6 is 128 bits long, 
+means 16 bytes 128 / 8 (8 bits = 1 bytes) = 16 bytes.
+
+This 128 bits consist of 8 groups.
+each group consist of 4 hexadecimal.
+4 hexadecimal consist of 16 bits. 
+(1 hexadecimal need 4 bits, as hexadecimal code up to go 0-15, so we need 16 representational
+numbers, so, 2 ^ 4 = 16 bits).
+
+16 bits * 8 (groups) = 128 bits.
+
+
+
+
+
+
+
+
