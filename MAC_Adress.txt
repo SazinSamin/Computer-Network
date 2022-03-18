@@ -1,3 +1,5 @@
+// https://en.wikipedia.org/wiki/MAC_address
+
 Mac Address is the physical address of a device.
 It is 48 bits long. The bits are divide with 6 group. Each group has 2 hexadecimal numbers, each hexadecimal number consist of
 4 bits. because 2 ^ 4 = 16(hexadecimal).
