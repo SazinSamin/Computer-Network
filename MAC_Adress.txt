@@ -3,8 +3,8 @@ It is 48 bits long. The bits are divide with 6 group. Each group has 2 hexadecim
 4 bits. because 2 ^ 4 = 16(hexadecimal).
 
 So, 
-=>  4 * 2 = 8
-=>  8 * 6 = 48
+=>  4(bits) * 2 = 8(octal)
+=>  8 * 6(group) = 48(total bits)
 
 
 
