@@ -1,5 +1,9 @@
 // https://en.wikipedia.org/wiki/Network_socket
 // https://pediaa.com/difference-between-socket-and-port/#:~:text=Socket%20and%20Port%20are%20two,an%20application%20in%20the%20device.
+// https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+
+
+
 
 Socket = Ip + Port
 
