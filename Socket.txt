@@ -1,1 +1,13 @@
-Socket
+// https://en.wikipedia.org/wiki/Network_socket
+// https://pediaa.com/difference-between-socket-and-port/#:~:text=Socket%20and%20Port%20are%20two,an%20application%20in%20the%20device.
+
+Socket = Ip + Port
+
+Socket is just an interface for sending & recieving data.
+example: 
+127.0.0.53:53 
+
+127.0.0.53 is an ip address and 53 is an port.
+
+use terminal to see socket:
+sudo netstat -nltp
