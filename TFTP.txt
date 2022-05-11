@@ -1,0 +1,1 @@
+// https://www.spiceworks.com/it-articles/what-is-tftp/#:~:text=TFTP%2C%20or%20Trivial%20File%20Transfer,User%20Data%20Protocol%20(UDP).
